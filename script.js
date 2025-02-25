@@ -17,7 +17,7 @@ link.forEach(function (alinks) {
     mouse.style.scale = 3;
   });
   alinks.addEventListener("mouseleave", () => {
-    mouse.style.backgroundColor = "#ffa500";
+    mouse.style.backgroundColor = "#550000";
     mouse.style.border = "none";
     mouse.style.scale = 1;
   });
