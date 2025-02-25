@@ -1008,7 +1008,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .featwork .cnt a {
-    background-color: #0a2e33 !important;
+    background-color: #ffa500!important;
     color: #fff !important;
     transition: all .3s ease;
 }
